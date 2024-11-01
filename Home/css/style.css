@@ -236,6 +236,32 @@ form button:hover {
     font-size: 1.3em;
 }
 
+.pizza-on-own-page, .add {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.pizza-on-own-page {
+    background-color: #ffcc00;
+    padding: 20px;
+    border-radius: 10px;
+    width: 95%;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.add {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 95%;
+    font-size: 1em;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
 .pizza-item-order {
     background-color: #ffcc00;
     padding: 20px;
